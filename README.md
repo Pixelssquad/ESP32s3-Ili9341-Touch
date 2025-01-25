@@ -6,6 +6,22 @@ put the file in \Arduino\libraries\TFT_eSPI
 is the configuration for the ESP32s3
 
 Connections
+ESP32s3  	  TFT
+--DISPLAY PINS---
+3v3  	VCC
+GND	GND
+39	CS
+RST 	RESET
+16	DC
+35	MOSI
+36	SCK
+3V3	LED
+---TOUCH PINS---
+48	T_CLK
+47	T_CS 
+21	T_DIN
+20	T_D0
+45	T_IRQ
 
 ESP32s3      TFT
 --DISPLAY PINS---
