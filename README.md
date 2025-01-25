@@ -4,39 +4,24 @@ Connect ESP32S3 to ILI9341 TFT With Touch
 Use the provided User_Setup.h for the TFT_eSPI Library
 put the file in \Arduino\libraries\TFT_eSPI
 is the configuration for the ESP32s3
-ò
+
 Connections
 
 ESP32s3      TFT
-
 --DISPLAY PINS---
-
 3v3          VCC
-
 GND          GND
-
 39           CS
-
 RST          RESET
-
 DC           16
-
 35           MOSI
-
 SCK          36
-
 3V3          LED
-
 ---TOUCH PINS---
-
 48           T_CLK
-
 47           T_CS
-
 21           T_DIN
-
 20           T_D0
-
 45           T_IRQ
 
 
