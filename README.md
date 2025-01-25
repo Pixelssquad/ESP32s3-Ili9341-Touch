@@ -4,7 +4,7 @@ Connect ESP32S3 to ILI9341 TFT With Touch
 Use the provided User_Setup.h for the TFT_eSPI Library
 put the file in \Arduino\libraries\TFT_eSPI
 is the configuration for the ESP32s3
-
+ò
 Connections
 
 ESP32s3      TFT
